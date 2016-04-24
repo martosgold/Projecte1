@@ -15,6 +15,7 @@ public class Projecte1 {
 
     /**
      * @param args the command line arguments
+     * hola bona tarda soc jose
      */
     public static void main(String[] args) {
         int[] nums = new int[5];
